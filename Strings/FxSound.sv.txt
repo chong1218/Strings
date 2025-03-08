@@ -112,5 +112,5 @@ countries: se
 "Select preferred output" = "Välj önskad utgång"
 "Preferred output:" = "Önskad utdata:"
 "None" = "Ingen"
-"Newly connected output device" = "Nyanslutet utmatningsenhet"
+"Newly connected output device" = "Nyansluten utgångsenhet"
 "Hide notifications" = "Dölj aviseringar"
