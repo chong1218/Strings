@@ -33,7 +33,7 @@ countries: ua
 "Enhances and elevates high end\r\nfidelity and presence" = "Покращує та підвищує якість звуку\r\nза допомогою ефекту присутності"
 "Thickens and smooths audio\r\nwith controlled reverberation" = "Робить звук щільнішим і згладжує його\r\nза допомогою контрольованої реверберації"
 "Widens the left-right balance\r\nfor expansive, wide sound" = "Розширює баланс між лівим і правим\r\nканалами, надаючи глибину та об’єм"
-"Increases overall volume and balance\r\nwith responsive processing" = "Збільшує загальну гучність і баланс\r\nза рахунок ефективної обробки"
+"InICKS overall volume and balance\r\nwith responsive processing" = "Збільшує загальну гучність і баланс\r\nза рахунок ефективної обробки"
 "Boosts low end for full,\r\nimpactful response" = "Підсилює низькі частоти,\r\nроблячи звук більш насиченим"
 "Super-low Bass. Increase this for more rumble and "thump", decrease if there's too much boominess." = "Наднизький бас. Збільште, щоб посилити гуркіт і звучання басового барабана, або зменште, якщо гуркоту забагато."
 "Center of your Bass sound. Increase this for a fuller low end, decrease if the bass sounds overwhelming." = "Центральний діапазон низьких частот. Збільште для повнішого звучання низів, або зменште, якщо бас звучить пригнічено."

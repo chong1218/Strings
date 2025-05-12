@@ -110,7 +110,7 @@ countries: EG sa
 "FxSound does not support mono devices, so FxSound processing had been disabled for this device." = "FxSound لا يدعم الأجهزة الأحادية، لذلك تم تعطيل معالجة FxSound لهذا الجهاز."
 "Minimize Button" = "زر التصغير"
 "Output device" = "جهاز الإخراج"
-"Select preferred output" = "اختر الإخراج المفضل لديك"
+"Select preferred output" = "اختر الإخراج المفضل لديك "
 "Preferred output:" = "الإخراج المفضل:"
 "None" = "لا شيء"
 "Newly connected output device" = "الأجهزة المتصل حديثًا"
