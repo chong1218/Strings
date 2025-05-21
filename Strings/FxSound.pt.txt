@@ -1,4 +1,4 @@
-language: Portuguese
+language: Portuguese 
 countries: pt
 
 "Oops! There\'s an issue with your playback device settings.\r\nBefore we can get started, please go through the " = "Ops! Há um problema com as configurações do seu dispositivo de reprodução.\r\nAntes de começarmos, por favor, passe pelo"
@@ -73,6 +73,7 @@ countries: pt
 "Open/Close FxSound" = "Abrir/Fechar FxSound"
 "Use Next Preset" = "Usar a próxima predefinição"
 "Use Previous Preset" = "Usar predefinição anterior"
+"Change Preset" = "Alterar predefinição"
 "Change Playback Device" = "Alterar dispositivo de reprodução"
 "Language" = "Língua"
 "Disable debug logging" = "Desativar registro de depuração"

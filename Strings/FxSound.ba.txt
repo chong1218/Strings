@@ -75,7 +75,7 @@ countries: ba
 "Use Previous Preset" = "Koristi prethodni profil"
 "Change Playback Device" = "Promjena Uređaja za Reprodukciju"
 "Language" = "Jezik"
-"Disable debug logging" = "Gašenje zapisnika otklanjanja grešaka"
+"Disable debug logging" = Gašenje zapisnika otklanjanja grešaka"
 "Version" = "Verzija"
 "Support" = "Pomoć"
 "Maintenance" = "Održavanje"

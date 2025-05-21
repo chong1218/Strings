@@ -105,7 +105,7 @@ countries: [enter list of 2-character country codes here!]
 "Settings file not found!" = "Settings file not found!"
 "FxSound is now open-source" = "FxSound is now open-source"
 "Press Ctrl + Alt/Shift + 0-9/A-Z to change the hotkey" = "Press Ctrl + Alt/Shift + 0-9/A-Z to change the hotkey"
-"FxSound does not support mono devices, so FxSound processing had been disabled for this device." = "FxSound does not support mono devices, so FxSound processing had been disabled for this device."
+"FxSound does not support mono devices, so FxSound processing had been disabled for this device." = "FxSound does not support mono devices, so FxSound processing had been disabled for this device." 
 "Minimize Button" = "Minimize Button"
 "Output device" = "Output device"
 "Select preferred output" = "Select preferred output"

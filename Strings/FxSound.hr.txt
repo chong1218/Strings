@@ -1,5 +1,5 @@
-language: Croatian
-countries: HR
+language: [Croatian]
+countries: [HR]
 
 "Oops! There\'s an issue with your playback device settings.\r\nBefore we can get started, please go through the " = "Oops! Postoji\'s problem sa postavkama uređaja za reprodukciju.\r\nPrije početka, molimo pratite "
 "troubleshooting steps here." = "korake za otkrivanje problema ovdje."
@@ -61,9 +61,9 @@ countries: HR
 "Preset files not found in the selected folder." = "Preset datoteke nisu pronađene u odabranoj mapi."
 "Settings" = "Postavke"
 "Donate" = "Donirajte"
-"General" = "Općenito"
+"General" = "General"
 "Help" = "Pomoć"
-"General Preferences" = "Opće postavke"
+"General Preferences" = "General Preferences"
 "Launch on system startup" = "Pokreni kod starta sistema"
 "Automatically switch to newly connected output device" = "Automatski prebaci na novo spojeni izlazni uređaj"
 "Hide help tips for audio controls" = "Sakrij savjete za pomoć kontrole zvuka"

@@ -1,5 +1,5 @@
-language: Hungarian
-countries: hu
+language: [Hungarian]
+countries: [hu]
 
 "Oops! There\'s an issue with your playback device settings.\r\nBefore we can get started, please go through the " = "Hoppá! Probléma van a lejátszóeszköz beállításaival.\r\nMielőtt elkezdhetnénk, kérjük nézze át a "
 "troubleshooting steps here." = "hibaelhárítási lépéseket itt!"

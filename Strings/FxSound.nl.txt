@@ -2,9 +2,9 @@ language: Dutch
 countries: nl be
 
 "Oops! There\'s an issue with your playback device settings.\r\nBefore we can get started, please go through the " = "Oops! There\'s an issue with your playback device settings.\r\nBefore we can get started, please go through the "
-"troubleshooting steps here." = "probleemoplossingsstappen hier."
-" if you\'re still having problems." = " als u nog steeds problemen ondervindt."
-"Contact us" = "Neem contact op"
+"troubleshooting steps here." = "troubleshooting steps here."
+" if you\'re still having problems." = " Als u nog steeds problemen ondervindt.."
+"Contact us" = "Neem dan contact met ons op"
 "Error in system audio configuration. Unable to run FxSound" = "Fout in de audioconfiguratie van het systeem. FxSound kan niet worden uitgevoerd"
 "OK" = "OK"
 "Click here to see what\'s new on this version!" = "Klik hier om te zien wat er nieuw is in deze versie!"
@@ -44,7 +44,8 @@ countries: nl be
 "The lower end of the high-end range. Increase this for more vocal clarity and articulation, reduce it and move the frequency wheel up and down to find and cut out overly loud \"S\" and \"T\" sounds." = "De onderkant van de high-end range. Verhoog dit voor meer vocale helderheid en articulatie, verlaag het en beweeg het frequentiewiel op en neer om te harde "S"- en "T"-geluiden te vinden en uit te sluiten.."
 "The core high-end range. Increase this to make your audio sound more like it\'s in an airy, large space, reduce it to help with room noises and unwanted echoing." = "Het belangrijkste high-end assortiment. Verhoog dit om uw audio meer te laten klinken alsof het in een luchtige, grote ruimte is, verlaag het om kamergeluiden en ongewenste echo's te helpen voorkomen."
 "The highest range of average human hearing. Increase this to give your sound more of a crisp tone, with lots of overtones. Reduce it to remove hiss or painfully high sounds." = "Het hoogste bereik van gemiddeld menselijk gehoor. Verhoog dit om uw geluid een scherpere toon te geven, met veel boventonen. Verlaag het om sissende of pijnlijk hoge geluiden te verwijderen.."
-"This wheel allows you to adjust which frequencies this EQ band is affecting\r\nup or down to target different frequencies/pitches. The EQ slider above\r\ncontrols the volume of this EQ band. Increase or decrease to boost or cut\r\na portion of your audio\'s frequencies, without modifying the rest of your sound." = "Met dit wiel kun je aanpassen welke frequenties deze EQ-band beïnvloedt\r\nomhoog of omlaag om verschillende frequenties/toonhoogtes te targeten. De EQ-schuifknop hierboven\r\nregelt het volume van deze EQ-band. Verhoog of verlaag \r\neen deel van de frequenties van uw audio te versterken of verminderen, zonder de rest van je geluid te wijzigen."
+"This wheel allows you to adjust which frequencies this EQ band is affecting\r\nup or down to target different frequencies/pitches. The EQ slider above\r\ncontrols the volume of this EQ band. Increase or decrease to boost or cut\r\na portion of your audio\'s frequencies, without modifying the rest of your sound." = "Met dit wiel kun je aanpassen welke frequenties deze EQ-band beïnvloedt\r\nomhoog of omlaag om verschillende frequenties/toonhoogtes te targeten. De EQ-schuifknop hierboven\r\nregelt het volume 
+van deze EQ-band. Verhoog of verlaag \r\neen deel van de frequenties van uw audio te versterken of verminderen, zonder de rest van je geluid te wijzigen."
 "SUBSCRIBE NOW" = "SCHRIJF JE NU IN"
 "Yes" = "Ja"
 "No" = "Nee"
@@ -76,7 +77,7 @@ countries: nl be
 "Change Preset" = "Wijzig Preset"
 "Change Playback Device" = "Wijzig Afspeelapparaat"
 "Language" = "Taal"
-"Disable debug logging" = "Debug-logregistratie uitschakelen"
+"Disable debug logging" = Uitschakelen Debug logboekregistratie"
 "Version" = "Versie"
 "Support" = "Support"
 "Maintenance" = "Onderhoud"
